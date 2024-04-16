@@ -1,4 +1,24 @@
-### Hi there 👋
+## Hello there, I'm Alex! 👋
+
+#### 👨🏻‍🔬 About Me
+I am a U3 undergratuate student in Software Engineering Co-op at McGill University. I'm passionate about bulding things and have experience in full-stack development from my two internships and numerous projects.
+
+#### 💻 Technical Skills
+* **Languages**: Java, Python, C#, JavaScript & TypeScript, C, OCaml, VBA, Bash, SQL, HTML & CSS, ARMv7 Assembly
+* **Tools & Frameworks**: Unity, Angular, Git, JUnit, Spring Boot, PostgreSQL, Postman, Gradle, Cucumber
+  
+#### 📂 Featured Projects
+* [**Daily Ball**](https://play.google.com/store/apps/details?id=com.AlexTurianskyj.DailyBall): Hypercasual mobile game
+* [**Vibe**](https://vibe-music.streamlit.app/): Music recommendation system
+
+#### 💼 Professional Experience
+* **Matrox**: Software Engineering Intern
+* **Hydro-Québec**: Software Development Intern
+
+#### ✉️ Links
+* [LinkedIn](https://www.linkedin.com/in/alex-turianskyj/)
+* alex.turianskyj@gmail.com
+* [flowcv.me/alex-turianskyj](https://flowcv.me/alex-turianskyj)
 
 <!--
 **alex8ndr/alex8ndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
