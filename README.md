@@ -12,8 +12,8 @@ I am a U3 undergratuate student in Software Engineering Co-op at McGill Universi
 * [**Vibe**](https://vibe-music.streamlit.app/): Music recommendation system
 
 #### 💼 Professional Experience
-* **Matrox**: Software Engineering Intern
-* **Hydro-Québec**: Software Development Intern
+* **Matrox**: Software Engineering Intern (Jan 2024 - Aug 2024)
+* **Hydro-Québec**: Software Development Intern (May 2023 - Aug 2023)
 
 #### ✉️ Links
 * [LinkedIn](https://www.linkedin.com/in/alex-turianskyj/)
