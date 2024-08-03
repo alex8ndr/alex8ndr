@@ -9,7 +9,7 @@ I am a U3 undergratuate student in Software Engineering Co-op at McGill Universi
   
 #### 📂 Featured Projects
 * [**Daily Ball**](https://play.google.com/store/apps/details?id=com.AlexTurianskyj.DailyBall): Hypercasual mobile game
-* [**Vibe**](https://vibe-music.streamlit.app/): Music recommendation system
+* [[**Vibe**]](https://huggingface.co/spaces/Al3x-T/Vibe): Music recommendation system
 
 #### 💼 Professional Experience
 * **Matrox**: Software Engineering Intern (Jan 2024 - Aug 2024)
