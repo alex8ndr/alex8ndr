@@ -1,7 +1,7 @@
 ## Hello there, I'm Alex! 👋
 
 #### 👨🏻‍🔬 About Me
-I am a Uu undergratuate student in Software Engineering Co-op at McGill University. I'm passionate about bulding things and have experience in full-stack development from my two internships and numerous projects.
+I am a U4 undergratuate student in Software Engineering Co-op at McGill University. I'm passionate about bulding things and have experience in full-stack development from my two internships and numerous projects.
 
 #### 💻 Technical Skills
 * **Languages**: Java, Python, C#, JavaScript & TypeScript, C, OCaml, VBA, Bash, SQL, HTML & CSS, ARMv7 Assembly
