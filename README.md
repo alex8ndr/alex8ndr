@@ -8,8 +8,8 @@ I am a U4 undergratuate student in Software Engineering Co-op at McGill Universi
 * **Tools & Frameworks**: Unity, Angular, Git, JUnit, Spring Boot, PostgreSQL, Postman, Gradle, Cucumber
   
 #### 📂 Featured Projects
-* [**Daily Ball**](https://play.google.com/store/apps/details?id=com.AlexTurianskyj.DailyBall): Hypercasual mobile game
-* [**Vibe**](https://huggingface.co/spaces/Al3x-T/Vibe): Music recommendation system
+* [**Daily Ball**](https://dailyball.alext.dev): Hypercasual mobile game
+* [**Vibe**](https://vibe.alext.dev): Music recommendation system
 
 #### 💼 Professional Experience
 * **Matrox**: Software Engineering Intern (Jan 2024 - Aug 2024)
@@ -18,7 +18,7 @@ I am a U4 undergratuate student in Software Engineering Co-op at McGill Universi
 #### ✉️ Links
 * [LinkedIn](https://www.linkedin.com/in/alex-turianskyj/)
 * alex.turianskyj@gmail.com
-* [flowcv.me/alex-turianskyj](https://flowcv.me/alex-turianskyj)
+* [alext.dev](https://alext.dev)
 
 <!--
 **alex8ndr/alex8ndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
