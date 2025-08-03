@@ -54,7 +54,7 @@ I'm a graduating Software Engineering Co-op student at McGill University with a 
 | Logo | Role | Company | Dates |
 |:---:|---|---|---|
 | <img src="https://github.com/alex8ndr/portfolio-website/blob/main/public/logos/autodesk.jpeg" width="36"> | Software Developer Intern | **Autodesk** | May 2025 - Aug 2025 |
-| <img src="https://media.licdn.com/dms/image/v2/D4E0BAQGkZz-KpTKMsg/company-logo_200_200/B4EZgU6InOGYAQ-/0/1752697440982/matroxvideo_logo?e=1756944000&v=beta&t=3SXD-KKZ5uZUuli0puqM_e_SaP5OIAXWAANjAPGGSgI" width="36"> | Software Engineering Intern | **Matrox** | Jan 2024 - Aug 2024 |
+| <img src="https://github.com/alex8ndr/portfolio-website/blob/main/public/logos/matrox.jpeg" width="36"> | Software Engineering Intern | **Matrox** | Jan 2024 - Aug 2024 |
 | <img src="https://github.com/alex8ndr/portfolio-website/blob/main/public/logos/hydro-quebec.jpeg" width="36"> | Software Development Intern | **Hydro-Québec** | May 2023 - Aug 2023 |
 
 ---
