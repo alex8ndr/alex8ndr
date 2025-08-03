@@ -6,13 +6,11 @@
 <a href="mailto:alex.turianskyj@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alex.turianskyj@gmail.com" /></a>
 
 
-<br/>
-
 I'm a graduating Software Engineering Co-op student at McGill University with a passion for building intuitive and impactful applications. With experience in full-stack development, mobile games, and machine learning from my internships and personal projects, I'm always excited to take on new challenges and learn new technologies.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 #### Languages
 <p>
